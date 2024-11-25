@@ -1,3 +1,4 @@
+//@ts-ignore
 import NextConfig from "next";
 
 const nextConfig: NextConfig = {
